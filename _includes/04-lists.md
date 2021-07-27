@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Jogging
+- Hiking
+- Camping
+- Swimming
+- Meditating
+  - Indoors
+  - Outdoors
