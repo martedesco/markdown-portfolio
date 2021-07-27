@@ -1,0 +1,7 @@
+- Jogging
+- Hiking
+- Camping
+- Swimming
+- Meditating
+  - Indoors
+  - Outdoors

@@ -1,0 +1,1 @@
+I am a computer engineer with more than **5 years experience** in software development including  exposure to customer-facing commercial  activities.I’m brazilian-italian . I speak *4 languages*. I’ve been abroad since I graduate and I collaborated delivering software while working at _**Brazil, Middle East & France**_.
